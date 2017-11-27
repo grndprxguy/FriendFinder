@@ -1,4 +1,4 @@
-var friends = {
+var friends = [{
 	"name": "Matt",
 	"photo": "https://vignette.wikia.nocookie.net/muppet/images/0/08/CookieMonsterWaving.jpg/revision/latest?cb=20120128192952",
 	"scores":[
@@ -13,6 +13,7 @@ var friends = {
       4,
       1
     ]
-};
+}
+];
 
 module.exports = friends;
